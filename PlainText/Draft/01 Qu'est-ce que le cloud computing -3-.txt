@@ -1,0 +1,3 @@
+PaaS: Platform as a Service
+
+IaaS: Infrastructure as a Service

@@ -1,0 +1,5 @@
+From wikipedia: http://en.wikipedia.org/wiki/Public_cloud
+
+A public cloud is a set of computers and computer network resources based on the standard cloud computing model, in which a service provider makes resources, such as applications and storage, available to the general public over the Internet[1] . Public cloud services may be free or offered on a pay-per-usage model.[2]
+
+Applications, storage, and other resources are made available to the general public by a service provider. There are service providers like Amazon, Microsoft or Google who own all infrastructure at their data center, as well as Cloud Brokers who aggregate infrastructure from multiple providers.

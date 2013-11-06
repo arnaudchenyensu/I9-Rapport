@@ -1,0 +1,1 @@
+Semble ressembler a beanstalk mais avec une configuration plus fine (choix de la couche d’application (PHP par exemple), choix de l’OS, choix du groupe de sécurité, load balancer, etc…)

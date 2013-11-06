@@ -1,0 +1,9 @@
+The company is not providing compatibility with Amazon Web Services (AWS), which means that customers are forced to work pretty much entirely with VMware if they go with the full integration. That’s handy for the VMware customer that simply wants to connect to a VMware external service. But even if they do, customers will not get the rock-bottom pricing that comes with a service like AWS. VMware has not announced pricing but they have maintained it would not be as low as AWS.
+
+Like Amazon and other IaaS providers, VMware's public cloud will offer access to virtual computing resources hosted in data centers in four US regions (with non-US data centers coming next year). VMware's biggest opportunity probably isn't in stealing customers away from Amazon or Microsoft, however. Rather, the VMware cloud will likely appeal the most to businesses with big VMware deployments—this is a strategy to wring more money out of customers already paying a premium for virtualization software.
+
+By using vSphere in combination with vCloud Hybrid Service, customers will be able to spin up new applications in the cloud using vSphere, or they can add capacity to applications without buying more hardware for their own data centers. Applications can draw from resources both in a customer's data center and in a VMware data center and appear to be on the same network.
+
+Unless you are a major VMware customer, there's no compelling reason we can see to use the technology over clouds on offer from Google, Microsoft, and Amazon – and VMware admits this. "vCHS is probably the best platform to extend your data center," Ferre says. "Amazon is by far the best cloud to support these other applications".
+
+"The developer wanting VMs on demand? That is a market that is served," Raghuram says. "We think the [vCHS] market is compelling to enterprise customers."

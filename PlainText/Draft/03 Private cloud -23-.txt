@@ -1,0 +1,7 @@
+From Wikipedia: http://en.wikipedia.org/wiki/Virtual_private_cloud
+
+A Virtual Private Cloud (VPC) is an on demand configurable pool of shared computing resources allocated within a public cloud environment, providing certain level of isolation between the different organizations(denoted as users hereafter) using the resources. The isolation between one VPC user and all other users of the same cloud (other VPC users as well as other public cloud users) is achieved normally through allocation of a Private IP Subnet and a virtual communication construct (such as a VLAN or a set of encrypted communication channels) per user. In a VPC solution, the previously described mechanism, providing isolation within the cloud, is accompanied with a VPN function (again, allocated per VPC user) that secures, by means of authentication and encryption, the remote access of the organization to its VPC cloud resources. With the introduction of the described isolation levels, an organization using this service is in effect working on a 'virtually private' cloud (i.e. as if the cloud infrastructure is not shared with other organizations), and hence the name VPC.
+
+VPC is most commonly used in the context of cloud infrastructure services (IaaS). In this context, the infrastructure provider, providing the underlining public cloud infrastructure, and the provider realizing the VPC service over this infrastructure, may be different vendors.
+
+Other definition: http://www.webopedia.com/TERM/P/private_cloud.html

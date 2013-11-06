@@ -1,0 +1,3 @@
+Utilisé pour deployer des applications spécifiques (tel que wordpress, drupal etc…).
+
+Il permet également de créer des templates si on a deja l’architecture existante.

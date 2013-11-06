@@ -1,0 +1,23 @@
+Google App Engine
+
+PaaS
+
+App Engine is a platform as a service that uses familiar technologies to build and host applications on the same infrastructure used at Google.
+
+Compute Engine
+
+IaaS
+
+Compute Engine is an infrastructure as a service that lets you run your large-scale computing workloads on Linux virtual machines hosted on Google's infrastructure.
+
+Cloud Storage
+
+Store, access and manage your data on Google’s storage infrastructure. Take advantage of the scale and efficiency we have built over the years.
+
+BigQuery
+
+Analyze Big Data in the cloud using SQL and get real-time business insights in seconds using Google BigQuery. Use a fully-managed data analysis service with no servers to install or maintain.
+
+CloudSQL
+
+Run MySQL databases in Google's cloud. Use a fully managed service to maintain and administer your databases, so you can focus more on building your applications and worry less about database management.

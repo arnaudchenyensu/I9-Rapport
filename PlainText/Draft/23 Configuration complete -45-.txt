@@ -1,0 +1,1 @@
+Lancement des VM (EC2), configuration politique firewall etc…
