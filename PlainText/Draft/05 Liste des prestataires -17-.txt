@@ -1,9 +1,0 @@
-* Amazon
-
-* Google
-
-* VMware
-
-* Windows
-
-* Rackspace

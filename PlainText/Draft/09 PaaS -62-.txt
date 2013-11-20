@@ -1,0 +1,3 @@
+Platform as a Service (PaaS)
+
+Platform as a Service fournit une abstraction supplémentaire (ca peut se dire???) comparer a IaaS. Les clients n’installe plus le système d’exploitation etc… mais le fournisseur fournit une plateforme avec les outils nécessaires deja installé. Par exemple, si le client a besoin d’installer un serveur php avec mysql, le fournisseur lui fournira une machine avec deja les logiciels nécessaires installés.

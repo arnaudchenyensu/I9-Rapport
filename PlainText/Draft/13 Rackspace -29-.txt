@@ -1,0 +1,5 @@
+Le principal avantage de Rackspace est qu’il utilise un logiciel open source afin de gérer son infrastructure cloud : Openstack framework. Pour les entreprises soucieuses du fonctionnement d’un fournisseur de cloud cela est très avantageux. Cela permet également de contribuer au logiciel et de connaitre les moindres details.
+
+Rackspace ne facture que pour le materiel utilisé et la bande passante sortante. Il est possible d’utiliser des serveurs dédiés. Le principal inconvenient est qu’il est plus cher que d’autres fournisseur.
+
+http://www.rackspace.com/cloud/public-pricing/

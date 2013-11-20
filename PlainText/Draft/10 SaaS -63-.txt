@@ -1,0 +1,3 @@
+Software as a Service (SaaS)
+
+Software as a Service fournit directement le logiciel nécessaire au client. Un exemple concret est un service de mail ou de logiciel de traitement de texte (Microsoft Office 365).

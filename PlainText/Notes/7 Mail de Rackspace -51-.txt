@@ -1,0 +1,53 @@
+Arnaud,
+
+ 
+
+Thanks for reaching out to us about your hosting needs with regards to Rackspace’s comparison against Amazon Web Services.
+
+ 
+
+Amazon Web Services is the leading provider of infrastructure in the world, recognized by Gartner.  If all you need is a mass of infrastructure to handle huge implementations in a highly-automated way, they would be the people to go to for your services.
+
+ 
+
+Rackspace Hosting is one of the leading providers of Managed Hosting solutions in the world, recognized by Gartner.  Managed hosting services are centered around using physical or virtual servers to create solutions for clients while also supplying the customer with managed services or support.
+
+ 
+
+The differences between our two companies circulate around the fundamental aspects of Infrastructure as a Service and Managed hosting as a whole.  Some of the ways Rackspace compares to Amazon are as follows:
+
+ 
+
+-          If you need Support, Amazon does not have a phone line that you can find to talk to them, Rackspace’s is on the front page of the website.
+
+-          You can receive support from Amazon a-la-carte, at Rackspace there are no extra charges for Support within our environment.
+
+-          Amazon has hidden costs for the following within their infrastructure: Database queries, Block Storage I/O queries, CDN requests, Monitoring API requests, Monitoring alarms, Monitoring Custom Metrics, Private networks, DNS Zones, DNS Queries.  Rackspace only charges for hardware and outgoing bandwidth.
+
+-          Amazon operates an entirely Cloud infrastructure, Rackspace has the ability to set up Dedicated Hardware and coordinate it with Cloud infrastructure to create an elastic Hybrid Cloud environment that allows you to utilize the benefits from both in a high performing, scalable manner.
+
+-          Amazon gives you resources as a ceiling that under ideal conditions you can use, Rackspace gives you resources as a base where those resources are absolutely reserved for you and you can also gain additional resources from the environment as well.
+
+ 
+
+If you are looking for raw Infrastructure as a Service, Amazon would be the place to go for that.  You will not receive any Support, you will have to estimate your budget based around their complex payment systems, and you will be limited to Cloud Infrastructure whose resources are a ceiling and not a base.
+
+ 
+
+If you are looking for Managed Hosting, Rackspace would be the best solution for hosting your environment.  We are committed to creating a positive experience for our customers and to making sure that we are doing the absolute best that we can to give you what you need.  We will work hand-in-hand with you to make sure that you are successful within our infrastructure.
+
+ 
+
+The choice is yours.
+
+ 
+
+Best regards,
+
+ 
+
+John McCullough
+
+New Business Consultant
+
+210.312.2798

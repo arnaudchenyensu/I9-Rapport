@@ -1,3 +1,9 @@
+Nous pouvons distinguer deux types principaux de Cloud computing : Privé et Public.
+
+Public Cloud
+
+Le Public Cloud correspond a l’utilisation du Cloud Computing mais a usage/diffusion publique. Par exemple, le fait d’utiliser le cloud computing pour stocker des données (tels que videos, images…) et mettre a disposition sur Internet. Exemple: Youtube, vimeo, Facebook…
+
 From wikipedia: http://en.wikipedia.org/wiki/Public_cloud
 
 A public cloud is a set of computers and computer network resources based on the standard cloud computing model, in which a service provider makes resources, such as applications and storage, available to the general public over the Internet[1] . Public cloud services may be free or offered on a pay-per-usage model.[2]

@@ -1,0 +1,3 @@
+Infrastructure as a Service (IaaS)
+
+‘Infrastructure as a Service’ correspond au service de cloud le plus répandu (ou pas??). Ce service consiste a fournir l’infrastructure nécessaire (Machines physique ou virtuel, base de données, connection réseaux…). Ce service permet aux clients de définir exactement leur infrastructure : du choix des caractéristiques des machines au déploiement de leur application en passant par l’installation du système d’exploitation…

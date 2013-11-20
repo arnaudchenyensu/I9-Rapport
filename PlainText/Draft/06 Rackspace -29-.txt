@@ -1,5 +1,0 @@
-J'attends une reponse de la part du contact sales support
-
-Main advantage : based on Openstack framework
-
-Seems a little bit more expensive compare to AWS

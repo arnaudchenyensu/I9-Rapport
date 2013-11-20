@@ -1,0 +1,31 @@
+Rappel du sujet
+
+Qu’est-ce que le Cloud Computing
+
+	Definition
+
+	Avantages et Inconvenients
+
+Quel fournisseur choisir?
+
+	Rackspace
+
+	Google
+
+	Amazon
+
+Utilisation du Cloud Computing - Cas d’une application web
+
+	Infographic on Twitter (nbre de requete/sec, taille des BDD…)
+
+	Exemple d’architecture
+
+	Deploiement de l’architecture
+
+	Maintenance (AWS cloudwatch etc…)
+
+Annexe - 
+
+	Dvp de l’application	
+
+	Code source - etc…

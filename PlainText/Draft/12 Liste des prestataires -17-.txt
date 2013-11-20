@@ -1,0 +1,13 @@
+Il existe de nombreux fournisseur de cloud computing. Dans ce projet, je m’interesse plus particulièrement a ces 3:
+
+* Amazon
+
+* Rackspace
+
+* Google
+
+Il est neammoins dure de comparer ces trois fournisseurs car ils ont chacun leur système de facturation et la qualité de leur service est egale. Neammoins, j’expose par la suite les principales differences qui peuvent influencer le choix du fournisseur.
+
+* VMware
+
+* Windows

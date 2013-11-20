@@ -1,0 +1,3 @@
+Cloud Computing
+
+Le *Cloud Computing* est une expression utilisée pour caractériser l’utilisation de nombreux ordinateurs qui communiquent entre eux en réseaux. Le Cloud computing est généralement associé a l’utilisation de machines gerees par un fournisseur tiers. Un exemple concret est l’utilisation d’une infrastructure réseau fournie par un fournisseur, pour deployer un site web, une application, etc…
